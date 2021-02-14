@@ -1,6 +1,4 @@
 /* Bekannte Bugs und noch nicht vorhandene Fetures:
- * - Bedienerfreundlicher machen
- * - Flascheingaben abfangen
  * - Optik verschönern
  * - Code optimieren
  */
