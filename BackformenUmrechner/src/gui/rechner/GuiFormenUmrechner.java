@@ -1,6 +1,10 @@
 /* Bekannte Bugs und noch nicht vorhandene Fetures:
  * - Optik verschönern
  * - Code optimieren
+ * - Tab reinfolge
+ * - Mehr erklärungen
+ * - cm hinzufügen
+ * - Kleiner erklärtext im Kopf des Programms
  */
 
 package gui.rechner;
